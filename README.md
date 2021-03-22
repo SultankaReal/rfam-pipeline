@@ -1,1 +1,0 @@
-# rfam-pipeline
